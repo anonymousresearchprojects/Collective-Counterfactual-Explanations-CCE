@@ -1,4 +1,4 @@
-# Collective Algorithmic Recourse (CARLA) - Public Release
+# Collective Counterfactual Explanations (CCE)
 
 ## Overview
 This repository provides tools and benchmarks for collective algorithmic recourse, including implementations of state-of-the-art recourse methods, simulation scripts, and optimal transport utilities. It also includes the back-and-forth method (BFM) for optimal transport, with Python and MATLAB wrappers for C code.
