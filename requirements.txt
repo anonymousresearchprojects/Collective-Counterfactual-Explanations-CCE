@@ -1,0 +1,8 @@
+torch==1.7.0+cpu 
+torchvision==0.8.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
+carla-recourse @ git+https://github.com/carla-recourse/CARLA.git@f4d702502d68112c2dd5255234be6eb2f01e251d
+thefuzz
+pandas
+numpy
+sklearn
+deap
